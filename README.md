@@ -10,7 +10,7 @@
 
 ## CurseForge Desktop Application
 [Hacking the CurseForge Desktop application to customise it](https://github.com/Lylythii/JVNE/curseforge/README.md)
-![CurseForge Desktop Application](./curseforge/preview.png)
+![CurseForge Desktop Application](https://raw.githubusercontent.com/Lylythii/JVNE/main/curseforge/preview.PNG)
 
 ## Prism Launcher Theme
 [Theme Source for PrismLauncher](https://github.com/Lylythii/PrismLauncherThemes/tree/main/themes/Jvne)
