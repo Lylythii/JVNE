@@ -2,7 +2,7 @@
 [CSS Source for the GitHub Desktop application](https://github.com/Lylythii/GitHub-Desktop-Modifications)
 ![GitHub Desktop Application](https://raw.githubusercontent.com/Lylythii/Github-Desktop-Modifications/main/preview_0.png)
 
-## Spotify [Spicetify](github,com/Spicetify) Theme
+## Spotify Spicetify Theme
 [Theme Source for Spicetify](https://github.com/Lylythii/SpicetifyAddons/tree/main/Themes/Jvne)
 
 ![Spotify Spicetify Theme 0](https://raw.githubusercontent.com/Lylythii/SpicetifyAddons/main/Themes/Jvne/preview_0.png)
