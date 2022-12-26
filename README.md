@@ -11,7 +11,7 @@
 ![Spotify Spicetify Theme 2](https://raw.githubusercontent.com/Lylythii/SpicetifyAddons/main/Themes/Jvne/preview_2.png)
 
 ## CurseForge Desktop Application
-[Hacking the CurseForge Desktop application to customise it](https://github.com/Lylythii/JVNE/curseforge/README.md)
+[Hacking the CurseForge Desktop application to customise it](https://github.com/Lylythii/JVNE/blob/main/curseforge/README.md)
 
 ![CurseForge Desktop Application](https://raw.githubusercontent.com/Lylythii/JVNE/main/curseforge/preview.PNG)
 
