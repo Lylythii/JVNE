@@ -16,7 +16,7 @@
 ![CurseForge Desktop Application](https://raw.githubusercontent.com/Lylythii/JVNE/main/curseforge/preview.PNG)
 
 ## Prism Launcher Theme
-[Theme Source for PrismLauncher](https://github.com/Lylythii/PrismLauncherThemes/tree/main/themes/Jvne)
+[Theme Source for PrismLauncher](https://github.com/PrismLauncher/Themes/tree/main/themes/Jvne)
 
 [How to install PrismLauncher themes](https://prismlauncher.org/wiki/getting-started/change-themes)
 
