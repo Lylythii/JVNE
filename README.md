@@ -14,6 +14,7 @@
 [Hacking the CurseForge Desktop application to customise it](https://github.com/Lylythii/JVNE/blob/main/curseforge/README.md)
 
 ![CurseForge Desktop Application](https://raw.githubusercontent.com/Lylythii/JVNE/main/curseforge/preview.PNG)
+![CurseForge Sewerslvt Background](https://raw.githubusercontent.com/BetterCurseForge/.github/main/profile/preview.webp)
 
 ## Prism Launcher Theme
 [Theme Source for PrismLauncher](https://github.com/PrismLauncher/Themes/tree/main/themes/Jvne)
