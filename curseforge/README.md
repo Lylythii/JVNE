@@ -29,3 +29,4 @@ That's how it is in the CurseForge app.asar files. Sorry to curse you with the k
 If you're still confused by this, or have any additional questions or queries, message me on Discord! `Lylythii#0001` I'll get back to you when I have a moment to spare.
 
 ![CurseForge Desktop Application](https://raw.githubusercontent.com/Lylythii/JVNE/main/curseforge/preview.PNG)
+![CurseForge Sewerslvt Background](https://raw.githubusercontent.com/BetterCurseForge/.github/main/profile/preview.webp)
